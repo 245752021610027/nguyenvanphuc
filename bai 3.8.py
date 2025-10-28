@@ -21,3 +21,4 @@ else:
     pass
 ######################
 print (int(round(math.sqrt(pos[1]**2+pos[0]**2))))
+

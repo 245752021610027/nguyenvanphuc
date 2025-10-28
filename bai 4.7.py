@@ -1,0 +1,5 @@
+print("nguyen van phuc")
+print("245752021610027")
+chuoi = input("Nhập chuỗi: ")
+chuoi_khong_so = ''.join([c for c in chuoi if not c.isdigit()])
+print("Chuỗi sau khi loại bỏ chữ số:", chuoi_khong_so)
